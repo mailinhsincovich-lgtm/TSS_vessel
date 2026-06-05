@@ -3,7 +3,7 @@ AI-Driven Compliance Transaction Screening Automation
 An automated Transaction Screening (TS) system designed to eliminate operational bottlenecks in financial compliance. This project replaces repetitive manual review with an "Intelligent Compliance Layer," successfully processing 1,800+ transactions per day while reducing daily manual review time from 8 hours to under 15 minutes.
 
 🎯 Problem Statement
-Operational Bottleneck: Compliance teams were forced to manually review 1,800+ daily transactions out of a 10,000+ volume, leading to high human error risk and fatigue.
+Operational Bottleneck: Compliance teams were forced to manually review 1,800+ daily transactions out of a 2,000+ volume, leading to high human error risk and fatigue.
 
 Systemic False Positives: Legacy Transaction Screening Systems (TSS) utilized primitive keyword matching, causing "over-screening" where legitimate financial transactions (e.g., dividends, bond redemptions) were repeatedly flagged due to name collisions with sanctioned vessels.
 
